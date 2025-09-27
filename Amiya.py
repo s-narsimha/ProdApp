@@ -1,0 +1,1 @@
+print("This file created by amiya")
